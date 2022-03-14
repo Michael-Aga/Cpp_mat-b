@@ -54,6 +54,6 @@ string ariel::mat(int col, int row, char first_shape, char second_shape)
             ans += "\n";
         }
     }
-    cout << ans << endl;
+    cout << ans << endl; //This is just so I could see the results.
     return ans;
 }
